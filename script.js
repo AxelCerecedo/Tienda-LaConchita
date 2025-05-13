@@ -4,7 +4,7 @@ let productosPorPagina = 30;
 let todosLosProductos = [];
 let productosFiltrados = [];
 
-fetch('http://localhost:3000/api/productos')
+fetch('productos.json')
   .then(response => response.json())
   .then(data => {
     const productos = data.map(p => ({
@@ -19,11 +19,12 @@ fetch('http://localhost:3000/api/productos')
         .replace(/^_+|_+$/g, "")}.jpg`
     }));
     todosLosProductos = productos;
-    aplicarFiltroBusqueda();
+    mostrarProductosPaginados();
   })
   .catch(error => {
     console.error("Error al cargar productos:", error);
   });
+
 
 function aplicarFiltroBusqueda() {
   const busqueda = document.getElementById("busqueda").value.toLowerCase();
