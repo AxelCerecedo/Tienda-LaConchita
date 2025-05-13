@@ -1,0 +1,3362 @@
+[
+  {
+    "nombre": "Detergente Foca",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 1,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Detergente Foca.jpg"
+  },
+  {
+    "nombre": "Agua E-Pura 10 L.",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 2,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Agua E-Pura 10 L..jpg"
+  },
+  {
+    "nombre": "Delicia 960 ML",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 3,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Delicia 960 ML.jpg"
+  },
+  {
+    "nombre": "Frijoles Isadora 430g",
+    "cantidad": 9,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 4,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Frijoles Isadora 430g.jpg"
+  },
+  {
+    "nombre": "Sopa Knort",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 4,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Sopa Knort.jpg"
+  },
+  {
+    "nombre": "Spagheti Yemina",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 5,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Spagheti Yemina.jpg"
+  },
+  {
+    "nombre": "Nescafe Decaf 40g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 6,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Nescafe Decaf 40g.jpg"
+  },
+  {
+    "nombre": "La Lechera 74,9 ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "La Lechera 74,9 ml.jpg"
+  },
+  {
+    "nombre": "Kelloggs Corn Flakes El original 150 g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 8,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Kelloggs Corn Flakes El original 150 g.jpg"
+  },
+  {
+    "nombre": "Knortr Caldo de pollo",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Knortr Caldo de pollo .jpg"
+  },
+  {
+    "nombre": "Pronto Hot Cakes Tradicional",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Pronto Hot Cakes Tradicional.jpg"
+  },
+  {
+    "nombre": "Bombitos Gamesa",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Bombitos Gamesa.jpg"
+  },
+  {
+    "nombre": "Doña Maria Mole 360 g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Doña Maria Mole 360 g.jpg"
+  },
+  {
+    "nombre": "Vinagre Blanco (Clement Jacques) 500 ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Vinagre Blanco (Clement Jacques) 500 ml.jpg"
+  },
+  {
+    "nombre": "Vinagre Manzana 500ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Vinagre Manzana 500ml.jpg"
+  },
+  {
+    "nombre": "Aceite Nutrioli 400ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Aceite Nutrioli 400ml.jpg"
+  },
+  {
+    "nombre": "La Costeña Frijoles 560g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 4,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "La Costeña Frijoles 560g.jpg"
+  },
+  {
+    "nombre": "Karol Maple 255ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Karol Maple 255ml.jpg"
+  },
+  {
+    "nombre": "Palillos Pingüino 250",
+    "cantidad": 13,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Palillos Pingüino 250.jpg"
+  },
+  {
+    "nombre": "McCormick Mermelada de Fresa y guayaba 165ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "McCormick Mermelada de Fresa y guayaba 165ml.jpg"
+  },
+  {
+    "nombre": "Tortillinas Tia Rosa 20pz",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Tortillinas Tia Rosa 20pz.jpg"
+  },
+  {
+    "nombre": "Tuny Express 295g",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Tuny Express 295g .jpg"
+  },
+  {
+    "nombre": "Herdez Salsa Habanera 200g",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 9,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Herdez Salsa Habanera 200g.jpg"
+  },
+  {
+    "nombre": "Nutella 1000g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Nutella 1000g.jpg"
+  },
+  {
+    "nombre": "Pan tostado Bimbo 14pz",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 10,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Pan tostado Bimbo 14pz.jpg"
+  },
+  {
+    "nombre": "Nesquik chocolate 68g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Nesquik chocolate 68g.jpg"
+  },
+  {
+    "nombre": "Carnation Nestle Polvo 120g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Carnation Nestle Polvo 120g.jpg"
+  },
+  {
+    "nombre": "Malvaviscos MarshMallows 1K",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Malvaviscos MarshMallows 1K.jpg"
+  },
+  {
+    "nombre": "Arroz Schettino 1Kg",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Arroz Schettino 1Kg.jpg"
+  },
+  {
+    "nombre": "Nescafe de olla 10g",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 6,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Nescafe de olla 10g.jpg"
+  },
+  {
+    "nombre": "Nescafe Clasico 10g",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 6,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Nescafe Clasico 10g.jpg"
+  },
+  {
+    "nombre": "Calahua Crema de coco 1L",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Calahua Crema de coco 1L.jpg"
+  },
+  {
+    "nombre": "Carnation Nestle Leche 930ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Carnation Nestle Leche 930ml.jpg"
+  },
+  {
+    "nombre": "Jumex Naranja 960ml",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Jumex Naranja 960ml.jpg"
+  },
+  {
+    "nombre": "Jumex Uva 960ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Jumex Uva 960ml.jpg"
+  },
+  {
+    "nombre": "Jumex Piña 960ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Jumex Piña 960ml.jpg"
+  },
+  {
+    "nombre": "Mantecadas Tia Rosa 2pz",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Mantecadas Tia Rosa 2pz.jpg"
+  },
+  {
+    "nombre": "Panque Bimbo Marmol 280g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 10,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Panque Bimbo Marmol 280g.jpg"
+  },
+  {
+    "nombre": "Panque Bimbo con Pazas 280g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 10,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Panque Bimbo con Pazas 280g.jpg"
+  },
+  {
+    "nombre": "Bimbuñuelos Bimbo 99g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Bimbuñuelos Bimbo 99g.jpg"
+  },
+  {
+    "nombre": "Bigotes con cajeta Tia Rosa 80g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Bigotes con cajeta Tia Rosa 80g.jpg"
+  },
+  {
+    "nombre": "Bigotes con chocolate Tia Rosa 80g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Bigotes con chocolate Tia Rosa 80g.jpg"
+  },
+  {
+    "nombre": "Pinguinos Marinela 80g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Pinguinos Marinela 80g.jpg"
+  },
+  {
+    "nombre": "Chocorroles Piña Marinela 80g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Chocorroles Piña Marinela 80g.jpg"
+  },
+  {
+    "nombre": "Submarinos Fresa Marinela 105g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Submarinos Fresa Marinela 105g.jpg"
+  },
+  {
+    "nombre": "Submarinos Vainilla Marinela 105g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Submarinos Vainilla Marinela 105g.jpg"
+  },
+  {
+    "nombre": "Gansito Marinela 50g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Gansito Marinela 50g.jpg"
+  },
+  {
+    "nombre": "Doraditas Tia Rosa 110g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Doraditas Tia Rosa 110g.jpg"
+  },
+  {
+    "nombre": "Palomitas ACT II Extra Mantequilla 87g",
+    "cantidad": 20,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Palomitas ACT II Extra Mantequilla 87g.jpg"
+  },
+  {
+    "nombre": "Mamut Gamesa 8pz 30g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Mamut Gamesa 8pz 30g.jpg"
+  },
+  {
+    "nombre": "Froot Loops Jelly Beans 284g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Froot Loops Jelly Beans 284g.jpg"
+  },
+  {
+    "nombre": "Skittles Morados 61,5g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Skittles Morados 61,5g.jpg"
+  },
+  {
+    "nombre": "Skittles Verdes 61,5g",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Skittles Verdes 61,5g.jpg"
+  },
+  {
+    "nombre": "Skittles Rojos 61,5g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Skittles Rojos 61,5g.jpg"
+  },
+  {
+    "nombre": "Skittles Gomitas Original  50g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Skittles Gomitas Original  50g.jpg"
+  },
+  {
+    "nombre": "Skittles Gomitas Original  99g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Skittles Gomitas Original  99g.jpg"
+  },
+  {
+    "nombre": "Salvavidas Gomitas Naranjas 56g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Salvavidas Gomitas Naranjas 56g.jpg"
+  },
+  {
+    "nombre": "Starburst Original 58,7g",
+    "cantidad": 8,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Starburst Original 58,7g.jpg"
+  },
+  {
+    "nombre": "Starburst FaveRits 58,7g",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Starburst FaveRits 58,7g.jpg"
+  },
+  {
+    "nombre": "HotTamales 120g",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "HotTamales 120g .jpg"
+  },
+  {
+    "nombre": "Reeses pieces 113g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Reeses pieces 113g.jpg"
+  },
+  {
+    "nombre": "M&MS Chocolate Cafes 47.9g",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "M&MS Chocolate Cafes 47.9g.jpg"
+  },
+  {
+    "nombre": "M&MS Chocolate Rojos 46.2g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "M&MS Chocolate Rojos 46.2g.jpg"
+  },
+  {
+    "nombre": "M&MS Chocolate Amarillos 49.3g",
+    "cantidad": 8,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "M&MS Chocolate Amarillos 49.3g.jpg"
+  },
+  {
+    "nombre": "M&MS Chocolate Amarillos 87.9g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "M&MS Chocolate Amarillos 87.9g.jpg"
+  },
+  {
+    "nombre": "MikeandIKE 120g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "MikeandIKE 120g.jpg"
+  },
+  {
+    "nombre": "SourPatch Kids 99g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "SourPatch Kids 99g.jpg"
+  },
+  {
+    "nombre": "Nerds Gummy Clusters 85g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Nerds Gummy Clusters 85g.jpg"
+  },
+  {
+    "nombre": "Whoppers Originals 141g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Whoppers Originals 141g .jpg"
+  },
+  {
+    "nombre": "Mazapan de la Rosa Gigante 50g",
+    "cantidad": 17,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 10,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Mazapan de la Rosa Gigante 50g.jpg"
+  },
+  {
+    "nombre": "Halls Negras 24,75g",
+    "cantidad": 8,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Halls Negras 24,75g .jpg"
+  },
+  {
+    "nombre": "Winis Diversos",
+    "cantidad": 32,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Winis Diversos .jpg"
+  },
+  {
+    "nombre": "Pelon Pelo Rico Tamarindo 30g",
+    "cantidad": 15,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Pelon Pelo Rico Tamarindo 30g.jpg"
+  },
+  {
+    "nombre": "Lucas Muecas Polvo 24g",
+    "cantidad": 8,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Lucas Muecas Polvo 24g.jpg"
+  },
+  {
+    "nombre": "Pulparindo 14g",
+    "cantidad": 11,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Pulparindo 14g.jpg"
+  },
+  {
+    "nombre": "OFF! Kids (Repelente Moscos) 118ml",
+    "cantidad": 7,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "OFF! Kids (Repelente Moscos) 118ml.jpg"
+  },
+  {
+    "nombre": "OFF! Family (Repelente Moscos) 200ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "OFF! Family (Repelente Moscos) 200ml.jpg"
+  },
+  {
+    "nombre": "Kotex Regular con Alas 16pz",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Kotex Regular con Alas 16pz.jpg"
+  },
+  {
+    "nombre": "Kotex Nocturno Extra Larga con Alas 10pz",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Kotex Nocturno Extra Larga con Alas 10pz.jpg"
+  },
+  {
+    "nombre": "Kotex Tampones Flujo abundante 12pz",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Kotex Tampones Flujo abundante 12pz.jpg"
+  },
+  {
+    "nombre": "Kotex Tampones Flujo Super abundante 12pz",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Kotex Tampones Flujo Super abundante 12pz.jpg"
+  },
+  {
+    "nombre": "Saba Invisible con alas 7pz",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Saba Invisible con alas 7pz.jpg"
+  },
+  {
+    "nombre": "Quita Esmalte Equate 100ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Quita Esmalte Equate 100ml.jpg"
+  },
+  {
+    "nombre": "Kleen Bebe Suavelastic Toallas 100pz",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 17,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Kleen Bebe Suavelastic Toallas 100pz .jpg"
+  },
+  {
+    "nombre": "Zenker Kids Protector Solar 60g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Zenker Kids Protector Solar 60g.jpg"
+  },
+  {
+    "nombre": "Zenker LAB Protector Solar 60g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Zenker LAB Protector Solar 60g.jpg"
+  },
+  {
+    "nombre": "Lomecan Intimo Ultra Fresh 200ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Lomecan Intimo Ultra Fresh 200ml.jpg"
+  },
+  {
+    "nombre": "Caprice Palmolive 316ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Caprice Palmolive 316ml .jpg"
+  },
+  {
+    "nombre": "Cosmetic Corta uñas 1pz",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Cosmetic Corta uñas 1pz.jpg"
+  },
+  {
+    "nombre": "eGo Magnetic Gel 200ml",
+    "cantidad": 7,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "eGo Magnetic Gel 200ml.jpg"
+  },
+  {
+    "nombre": "Colgate XTRA Blancura 50ml",
+    "cantidad": 11,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Colgate XTRA Blancura 50ml.jpg"
+  },
+  {
+    "nombre": "Sedal Crema para peinar Risos Definidos 135ml",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Sedal Crema para peinar Risos Definidos 135ml.jpg"
+  },
+  {
+    "nombre": "Rexona Desodorante XXL 148g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Rexona Desodorante XXL 148g.jpg"
+  },
+  {
+    "nombre": "Algodón Absorbente Laloma 3g",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Algodón Absorbente Laloma 3g.jpg"
+  },
+  {
+    "nombre": "Head&Shoulders Limpieza Renovadora 90ml",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Head&Shoulders Limpieza Renovadora 90ml.jpg"
+  },
+  {
+    "nombre": "Pantene Restauracion 100ml",
+    "cantidad": 16,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 10,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Pantene Restauracion 100ml.jpg"
+  },
+  {
+    "nombre": "Escudo Jabon Corporal 135g",
+    "cantidad": 9,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Escudo Jabon Corporal 135g.jpg"
+  },
+  {
+    "nombre": "Agua Oxigenada 960ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 2,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Agua Oxigenada 960ml.jpg"
+  },
+  {
+    "nombre": "Cloralex El rendidor 500ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Cloralex El rendidor 500ml.jpg"
+  },
+  {
+    "nombre": "Salvo Antigrasa 215ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Salvo Antigrasa 215ml.jpg"
+  },
+  {
+    "nombre": "Inflador y reparador de neumaticos 475ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Inflador y reparador de neumaticos 475ml.jpg"
+  },
+  {
+    "nombre": "Fabuloso Morado 500ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Fabuloso Morado 500ml.jpg"
+  },
+  {
+    "nombre": "Raid Mosquitos Raidolitos 10 Espirales",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Raid Mosquitos Raidolitos 10 Espirales.jpg"
+  },
+  {
+    "nombre": "Colgate Cepillo de dientes  Medio",
+    "cantidad": 12,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Colgate Cepillo de dientes  Medio .jpg"
+  },
+  {
+    "nombre": "Rastrillo Bic Comford",
+    "cantidad": 25,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Rastrillo Bic Comford .jpg"
+  },
+  {
+    "nombre": "Café Oriental Sobre",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Café Oriental Sobre.jpg"
+  },
+  {
+    "nombre": "Coffe Make 34g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Coffe Make 34g.jpg"
+  },
+  {
+    "nombre": "PakeTaxo Amarillo 44g",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "PakeTaxo Amarillo 44g.jpg"
+  },
+  {
+    "nombre": "PakeTaxo Azul 44g",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "PakeTaxo Azul 44g.jpg"
+  },
+  {
+    "nombre": "PakeTaxo Verde 44g",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "PakeTaxo Verde 44g.jpg"
+  },
+  {
+    "nombre": "Sabritas Amarillas 42g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Sabritas Amarillas 42g.jpg"
+  },
+  {
+    "nombre": "Fritos Sal y Limon Amarillos 38g",
+    "cantidad": 14,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Fritos Sal y Limon Amarillos 38g.jpg"
+  },
+  {
+    "nombre": "Fritos Cafes (chorizo chipotle) 38g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Fritos Cafes (chorizo chipotle) 38g.jpg"
+  },
+  {
+    "nombre": "Cheetos Naranjas 44g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Cheetos Naranjas 44g.jpg"
+  },
+  {
+    "nombre": "Cheetos Flamin Hot 44g",
+    "cantidad": 14,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Cheetos Flamin Hot 44g.jpg"
+  },
+  {
+    "nombre": "Cheetos Flamin Hot POFFS 44g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Cheetos Flamin Hot POFFS 44g.jpg"
+  },
+  {
+    "nombre": "Doritos Nachos 48g",
+    "cantidad": 12,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Doritos Nachos 48g.jpg"
+  },
+  {
+    "nombre": "Chips Jalapeño 42g",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Chips Jalapeño 42g.jpg"
+  },
+  {
+    "nombre": "Chips Sal 42g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Chips Sal 42g.jpg"
+  },
+  {
+    "nombre": "Takis Verdes Original 56g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Takis Verdes Original 56g.jpg"
+  },
+  {
+    "nombre": "Takis Fuego Morados 56g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Takis Fuego Morados 56g.jpg"
+  },
+  {
+    "nombre": "Takis Salsa Brava 70g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 9,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Takis Salsa Brava 70g .jpg"
+  },
+  {
+    "nombre": "Runners Chile y Limon 58g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Runners Chile y Limon 58g .jpg"
+  },
+  {
+    "nombre": "Rancheritos 40g",
+    "cantidad": 7,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Rancheritos 40g .jpg"
+  },
+  {
+    "nombre": "Ruffles Queso 41g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Ruffles Queso 41g.jpg"
+  },
+  {
+    "nombre": "POP Karameladas 50g",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "POP Karameladas 50g.jpg"
+  },
+  {
+    "nombre": "Doritos Dinamita Chile y Limon Verdes 50g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Doritos Dinamita Chile y Limon Verdes 50g.jpg"
+  },
+  {
+    "nombre": "Doritos Incognito 54g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Doritos Incognito 54g .jpg"
+  },
+  {
+    "nombre": "Crujitos Flamin Hot 35g",
+    "cantidad": 7,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Crujitos Flamin Hot 35g.jpg"
+  },
+  {
+    "nombre": "Sabritones Originales 32g",
+    "cantidad": 9,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Sabritones Originales 32g.jpg"
+  },
+  {
+    "nombre": "PakeTaxo Quexo Azul 300g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "PakeTaxo Quexo Azul 300g.jpg"
+  },
+  {
+    "nombre": "PakeTaxo  Amarillo 265g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "PakeTaxo  Amarillo 265g.jpg"
+  },
+  {
+    "nombre": "Cheetos Flamin Hot 350g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Cheetos Flamin Hot 350g.jpg"
+  },
+  {
+    "nombre": "Sabritas Amarillas 255g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Sabritas Amarillas 255g.jpg"
+  },
+  {
+    "nombre": "Sabritas Limon 160g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Sabritas Limon 160g.jpg"
+  },
+  {
+    "nombre": "Chips Jalapeño 240g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Chips Jalapeño 240g.jpg"
+  },
+  {
+    "nombre": "Sabritas Adobadas 255g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Sabritas Adobadas 255g.jpg"
+  },
+  {
+    "nombre": "Rancheritos 350g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Rancheritos 350g .jpg"
+  },
+  {
+    "nombre": "Cheetos Naranjas 350g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Cheetos Naranjas 350g.jpg"
+  },
+  {
+    "nombre": "Springles Originales 37g",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Springles Originales 37g.jpg"
+  },
+  {
+    "nombre": "Springles Queso 40g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Springles Queso 40g.jpg"
+  },
+  {
+    "nombre": "Valentina Negra 370ml",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Valentina Negra 370ml.jpg"
+  },
+  {
+    "nombre": "La Botanera Clasica 430ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "La Botanera Clasica 430ml.jpg"
+  },
+  {
+    "nombre": "Catsup Clemente Jacques 320g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Catsup Clemente Jacques 320g.jpg"
+  },
+  {
+    "nombre": "Tajin Clasica 255g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Tajin Clasica 255g.jpg"
+  },
+  {
+    "nombre": "Chamorrico Chamoy 5OOml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Chamorrico Chamoy 5OOml.jpg"
+  },
+  {
+    "nombre": "Salsa Tabasco 60ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 9,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Salsa Tabasco 60ml.jpg"
+  },
+  {
+    "nombre": "Bufalo Clasica 150g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Bufalo Clasica 150g.jpg"
+  },
+  {
+    "nombre": "Salsa Inglesa Crosse & Blackwell 145ml",
+    "cantidad": 8,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 9,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Salsa Inglesa Crosse & Blackwell 145ml.jpg"
+  },
+  {
+    "nombre": "Maggi Jugo 100ml",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Maggi Jugo 100ml.jpg"
+  },
+  {
+    "nombre": "French's Mostaza 226ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "French's Mostaza 226ml .jpg"
+  },
+  {
+    "nombre": "Emperador Chocolate 91g",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Emperador Chocolate 91g.jpg"
+  },
+  {
+    "nombre": "Emperador Senzo 93g",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Emperador Senzo 93g.jpg"
+  },
+  {
+    "nombre": "Emperador Combinado 91g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Emperador Combinado 91g.jpg"
+  },
+  {
+    "nombre": "Emperador Piruetas 76g",
+    "cantidad": 25,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Emperador Piruetas 76g.jpg"
+  },
+  {
+    "nombre": "Plativolos 72g",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Plativolos 72g.jpg"
+  },
+  {
+    "nombre": "Emperador Chocotella 72g",
+    "cantidad": 8,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Emperador Chocotella 72g.jpg"
+  },
+  {
+    "nombre": "Trikitrakes 68g",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Trikitrakes 68g.jpg"
+  },
+  {
+    "nombre": "Barritas Marinela Fresa 55g",
+    "cantidad": 20,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Barritas Marinela Fresa 55g.jpg"
+  },
+  {
+    "nombre": "Principe Marinela Chocolate 84g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Principe Marinela Chocolate 84g.jpg"
+  },
+  {
+    "nombre": "Chokis Clasicas 57g",
+    "cantidad": 12,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Chokis Clasicas 57g.jpg"
+  },
+  {
+    "nombre": "Marianitas Vainilla 185g",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Marianitas Vainilla 185g.jpg"
+  },
+  {
+    "nombre": "Cremax Chocolate 113g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Cremax Chocolate 113g.jpg"
+  },
+  {
+    "nombre": "Canelitas 60g",
+    "cantidad": 15,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Canelitas 60g.jpg"
+  },
+  {
+    "nombre": "Marias Gamesa Mini Rollos",
+    "cantidad": 17,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Marias Gamesa Mini Rollos .jpg"
+  },
+  {
+    "nombre": "Salmas Horneadas 23pz",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Salmas Horneadas 23pz.jpg"
+  },
+  {
+    "nombre": "Saladitas Gamesa 42pz 504g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Saladitas Gamesa 42pz 504g.jpg"
+  },
+  {
+    "nombre": "Te Verde 100pz 150g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Te Verde 100pz 150g.jpg"
+  },
+  {
+    "nombre": "Zucaritas Chocolate 30g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Zucaritas Chocolate 30g.jpg"
+  },
+  {
+    "nombre": "Zucaritas Originales 30g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Zucaritas Originales 30g.jpg"
+  },
+  {
+    "nombre": "Corn Pops 30g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Corn Pops 30g.jpg"
+  },
+  {
+    "nombre": "Floop Loops Cereal 25g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Floop Loops Cereal 25g.jpg"
+  },
+  {
+    "nombre": "Hot Nuts Original 160g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Hot Nuts Original 160g.jpg"
+  },
+  {
+    "nombre": "Speed Stek Desodorante Hombre 30ml",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Speed Stek Desodorante Hombre 30ml .jpg"
+  },
+  {
+    "nombre": "Speed Stek Desodorante Mujer 30ml",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Speed Stek Desodorante Mujer 30ml .jpg"
+  },
+  {
+    "nombre": "Oblea cajeta Coronado 9g",
+    "cantidad": 8,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Oblea cajeta Coronado 9g.jpg"
+  },
+  {
+    "nombre": "Chipileta Sandia 11g",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Chipileta Sandia 11g .jpg"
+  },
+  {
+    "nombre": "Chipileta Chamoy 11g",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Chipileta Chamoy 11g .jpg"
+  },
+  {
+    "nombre": "Chipileta Naranja 11g",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Chipileta Naranja 11g .jpg"
+  },
+  {
+    "nombre": "Sacate de baño",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Sacate de baño .jpg"
+  },
+  {
+    "nombre": "Maruchan Limon Habanero",
+    "cantidad": 37,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Maruchan Limon Habanero.jpg"
+  },
+  {
+    "nombre": "Maruchan Piquin",
+    "cantidad": 16,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Maruchan Piquin.jpg"
+  },
+  {
+    "nombre": "Maruchan Camaron",
+    "cantidad": 17,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Maruchan Camaron .jpg"
+  },
+  {
+    "nombre": "FUD Jamon de Pavo Virginia 450g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "FUD Jamon de Pavo Virginia 450g.jpg"
+  },
+  {
+    "nombre": "Gatorade Mora 600ml",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Gatorade Mora 600ml.jpg"
+  },
+  {
+    "nombre": "Gatorade Limon 600ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Gatorade Limon 600ml.jpg"
+  },
+  {
+    "nombre": "Lipton Te Negro Limon 600ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Lipton Te Negro Limon 600ml .jpg"
+  },
+  {
+    "nombre": "Lipton Te Negro Durazno 600ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Lipton Te Negro Durazno 600ml .jpg"
+  },
+  {
+    "nombre": "Fuze Tea Te Negro Durazno 600ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Fuze Tea Te Negro Durazno 600ml.jpg"
+  },
+  {
+    "nombre": "Sol Mezclas Clamato 473ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Sol Mezclas Clamato 473ml.jpg"
+  },
+  {
+    "nombre": "Topo Chico 600ml",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Topo Chico 600ml .jpg"
+  },
+  {
+    "nombre": "Coca Cola Zero 355ml",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Coca Cola Zero 355ml .jpg"
+  },
+  {
+    "nombre": "Victoria 210ml",
+    "cantidad": 24,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Victoria 210ml.jpg"
+  },
+  {
+    "nombre": "Corona 210ml",
+    "cantidad": 48,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Corona 210ml.jpg"
+  },
+  {
+    "nombre": "Coca Cola Sin Azucar 2,5L",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Coca Cola Sin Azucar 2,5L .jpg"
+  },
+  {
+    "nombre": "Coca Cola Original 2L",
+    "cantidad": 40,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Coca Cola Original 2L.jpg"
+  },
+  {
+    "nombre": "Coca Cola Original 3L",
+    "cantidad": 20,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Coca Cola Original 3L.jpg"
+  },
+  {
+    "nombre": "Sidral Mundet 2L",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Sidral Mundet 2L.jpg"
+  },
+  {
+    "nombre": "Lala Crema 426ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Lala Crema 426ml .jpg"
+  },
+  {
+    "nombre": "Yoli Limon 2L",
+    "cantidad": 11,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Yoli Limon 2L .jpg"
+  },
+  {
+    "nombre": "Peñafiel Sifon 1,75L",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Peñafiel Sifon 1,75L.jpg"
+  },
+  {
+    "nombre": "Fresca Limon 2L",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Fresca Limon 2L.jpg"
+  },
+  {
+    "nombre": "Seven Up 3L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Seven Up 3L.jpg"
+  },
+  {
+    "nombre": "Mirinda 3L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Mirinda 3L.jpg"
+  },
+  {
+    "nombre": "Fanta Naranja 600ml",
+    "cantidad": 25,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Fanta Naranja 600ml .jpg"
+  },
+  {
+    "nombre": "Yoli Limon 600ml",
+    "cantidad": 35,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Yoli Limon 600ml .jpg"
+  },
+  {
+    "nombre": "Coca Cola Original Lata 355ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Coca Cola Original Lata 355ml.jpg"
+  },
+  {
+    "nombre": "Electrolit Coco 625ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Electrolit Coco 625ml.jpg"
+  },
+  {
+    "nombre": "Electrolit FresaKiwi 625ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Electrolit FresaKiwi 625ml.jpg"
+  },
+  {
+    "nombre": "Monster Energy Rojo 473ml",
+    "cantidad": 20,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Monster Energy Rojo 473ml .jpg"
+  },
+  {
+    "nombre": "Santa Clara Deslactosada 1L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Santa Clara Deslactosada 1L.jpg"
+  },
+  {
+    "nombre": "Bolsa de Hielo",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Bolsa de Hielo .jpg"
+  },
+  {
+    "nombre": "Delaware Punch Uva 600ml",
+    "cantidad": 14,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Delaware Punch Uva 600ml .jpg"
+  },
+  {
+    "nombre": "Coca Cola Original 600ml",
+    "cantidad": 26,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Coca Cola Original 600ml.jpg"
+  },
+  {
+    "nombre": "Lipton Te Verde 600ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Lipton Te Verde 600ml.jpg"
+  },
+  {
+    "nombre": "Yoli Limon Vidrio 500ml",
+    "cantidad": 7,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Yoli Limon Vidrio 500ml .jpg"
+  },
+  {
+    "nombre": "Fresca Limon 600ml",
+    "cantidad": 21,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Fresca Limon 600ml.jpg"
+  },
+  {
+    "nombre": "Sidral Mundet 600ml",
+    "cantidad": 12,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Sidral Mundet 600ml.jpg"
+  },
+  {
+    "nombre": "Coca Cola Light 355ml",
+    "cantidad": 11,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Coca Cola Light 355ml .jpg"
+  },
+  {
+    "nombre": "Coca Cola Original Vidrio 500ml",
+    "cantidad": 23,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Coca Cola Original Vidrio 500ml.jpg"
+  },
+  {
+    "nombre": "Jumex Manzana 413ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Jumex Manzana 413ml.jpg"
+  },
+  {
+    "nombre": "Squirt 3L",
+    "cantidad": 9,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Squirt 3L.jpg"
+  },
+  {
+    "nombre": "Fanta Naranja 2L",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Fanta Naranja 2L.jpg"
+  },
+  {
+    "nombre": "Be Light Toronja 1,5L",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Be Light Toronja 1,5L.jpg"
+  },
+  {
+    "nombre": "Be Light Mango 1,5L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Be Light Mango 1,5L.jpg"
+  },
+  {
+    "nombre": "Be Light Jamaica 1,5L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Be Light Jamaica 1,5L.jpg"
+  },
+  {
+    "nombre": "Volt Blue 473ml",
+    "cantidad": 22,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Volt Blue 473ml .jpg"
+  },
+  {
+    "nombre": "Canada Dry Agua Mineral 600ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 2,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Canada Dry Agua Mineral 600ml.jpg"
+  },
+  {
+    "nombre": "Frutsi 250ml",
+    "cantidad": 7,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Frutsi 250ml .jpg"
+  },
+  {
+    "nombre": "Santa Clara Fresa 180ml",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Santa Clara Fresa 180ml .jpg"
+  },
+  {
+    "nombre": "Sky Blue 275ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Sky Blue 275ml.jpg"
+  },
+  {
+    "nombre": "Jumex Durazno 960ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Jumex Durazno 960ml.jpg"
+  },
+  {
+    "nombre": "Jumex Mango 413ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Jumex Mango 413ml.jpg"
+  },
+  {
+    "nombre": "Jumex Durazno 413ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Jumex Durazno 413ml.jpg"
+  },
+  {
+    "nombre": "Santa Clara Capuchino 180ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Santa Clara Capuchino 180ml .jpg"
+  },
+  {
+    "nombre": "Santa Clara Chocolate 180ml",
+    "cantidad": 9,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Santa Clara Chocolate 180ml .jpg"
+  },
+  {
+    "nombre": "Boing Manzana 500ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Boing Manzana 500ml.jpg"
+  },
+  {
+    "nombre": "Boing Guayaba 500ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Boing Guayaba 500ml.jpg"
+  },
+  {
+    "nombre": "Gatorade Ponche de Frutas 600ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Gatorade Ponche de Frutas 600ml.jpg"
+  },
+  {
+    "nombre": "Gatorade Naranja 600ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Gatorade Naranja 600ml.jpg"
+  },
+  {
+    "nombre": "Corona Extra 473ml",
+    "cantidad": 57,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Corona Extra 473ml.jpg"
+  },
+  {
+    "nombre": "Michelob Ultra 355ml",
+    "cantidad": 42,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Michelob Ultra 355ml.jpg"
+  },
+  {
+    "nombre": "Pacifico Clara 355ml",
+    "cantidad": 49,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Pacifico Clara 355ml.jpg"
+  },
+  {
+    "nombre": "Modelo Especial 473ml",
+    "cantidad": 42,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Modelo Especial 473ml.jpg"
+  },
+  {
+    "nombre": "Victoria Lata 473ml",
+    "cantidad": 25,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Victoria Lata 473ml.jpg"
+  },
+  {
+    "nombre": "Heineken Cero 355ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Heineken Cero 355ml.jpg"
+  },
+  {
+    "nombre": "Tecate Light Lager 355ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Tecate Light Lager 355ml.jpg"
+  },
+  {
+    "nombre": "Cigarros Luckies",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Cigarros Luckies .jpg"
+  },
+  {
+    "nombre": "Cigarros Faros",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Cigarros Faros .jpg"
+  },
+  {
+    "nombre": "Cigarros Lucky Strike",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Cigarros Lucky Strike .jpg"
+  },
+  {
+    "nombre": "Cigarros Malboro Blanco",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Cigarros Malboro Blanco .jpg"
+  },
+  {
+    "nombre": "Cigarros Malboro Rojos",
+    "cantidad": 11,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Cigarros Malboro Rojos.jpg"
+  },
+  {
+    "nombre": "Cigarros Pall Mall Alaska",
+    "cantidad": 19,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Cigarros Pall Mall Alaska.jpg"
+  },
+  {
+    "nombre": "Cigarros Pall Mall Mykonos",
+    "cantidad": 11,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Cigarros Pall Mall Mykonos.jpg"
+  },
+  {
+    "nombre": "Cigarros Malboro Summer Fusion",
+    "cantidad": 9,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Cigarros Malboro Summer Fusion .jpg"
+  },
+  {
+    "nombre": "Cigarros Malboro ice xpress",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Cigarros Malboro ice xpress .jpg"
+  },
+  {
+    "nombre": "Tostitos Cebolla Francesa 240g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Tostitos Cebolla Francesa 240g.jpg"
+  },
+  {
+    "nombre": "Tostitos Queso Jalapeño 255g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Tostitos Queso Jalapeño 255g.jpg"
+  },
+  {
+    "nombre": "Riopan 10tab",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 10,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Riopan 10tab.jpg"
+  },
+  {
+    "nombre": "Picot 10tab",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Picot 10tab.jpg"
+  },
+  {
+    "nombre": "AlkaSeltzer Boost 10tab",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "AlkaSeltzer Boost 10tab.jpg"
+  },
+  {
+    "nombre": "Mejoralito 30tab",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Mejoralito 30tab.jpg"
+  },
+  {
+    "nombre": "Tabcin Active 12tab",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Tabcin Active 12tab.jpg"
+  },
+  {
+    "nombre": "Tabcin Noche 12tab",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Tabcin Noche 12tab.jpg"
+  },
+  {
+    "nombre": "Aspirina 40tab",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Aspirina 40tab.jpg"
+  },
+  {
+    "nombre": "Lomotin 8tab",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Lomotin 8tab.jpg"
+  },
+  {
+    "nombre": "TempraForte 24tab",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "TempraForte 24tab.jpg"
+  },
+  {
+    "nombre": "Dramamine 24tab",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Dramamine 24tab.jpg"
+  },
+  {
+    "nombre": "Excedrin 24tab",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Excedrin 24tab.jpg"
+  },
+  {
+    "nombre": "Cuchara Desechable Grande 25pz",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Cuchara Desechable Grande 25pz.jpg"
+  },
+  {
+    "nombre": "Tenedor Desechable Pastelero 50pz",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Tenedor Desechable Pastelero 50pz.jpg"
+  },
+  {
+    "nombre": "Vasos Desechables 16oz 25pz",
+    "cantidad": 7,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Vasos Desechables 16oz 25pz.jpg"
+  },
+  {
+    "nombre": "Vasos Desechables Cap. 570ml 25pz",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Vasos Desechables Cap. 570ml 25pz.jpg"
+  },
+  {
+    "nombre": "Charola Desechable Chica 50pz",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Charola Desechable Chica 50pz.jpg"
+  },
+  {
+    "nombre": "Valentina Amarilla 4L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Valentina Amarilla 4L .jpg"
+  },
+  {
+    "nombre": "Chivas Rivas Regal 12 1,75 L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Chivas Rivas Regal 12 1,75 L.jpg"
+  },
+  {
+    "nombre": "Mezcal Artesanal 400 Conejos 1L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Mezcal Artesanal 400 Conejos 1L.jpg"
+  },
+  {
+    "nombre": "Bacardi Blanco 1,75 L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Bacardi Blanco 1,75 L .jpg"
+  },
+  {
+    "nombre": "Bacardi Mango Chile 750ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Bacardi Mango Chile 750ml .jpg"
+  },
+  {
+    "nombre": "Bacardi Raspberry 750ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Bacardi Raspberry 750ml .jpg"
+  },
+  {
+    "nombre": "Bacardi Limon Verde 750ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Bacardi Limon Verde 750ml .jpg"
+  },
+  {
+    "nombre": "Bacardi Blanco 700ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Bacardi Blanco 700ml .jpg"
+  },
+  {
+    "nombre": "Boones Pink Limonade 750ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Boones Pink Limonade 750ml.jpg"
+  },
+  {
+    "nombre": "Vino Tinto Opera Prima 750ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Vino Tinto Opera Prima 750ml.jpg"
+  },
+  {
+    "nombre": "Kahlua Coffe Liqueur 1L",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Kahlua Coffe Liqueur 1L.jpg"
+  },
+  {
+    "nombre": "Vino Tinto Malbec 750ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Vino Tinto Malbec 750ml .jpg"
+  },
+  {
+    "nombre": "Tequila Maestro Dobel 700ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Tequila Maestro Dobel 700ml.jpg"
+  },
+  {
+    "nombre": "Torres 10 700ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Torres 10 700ml.jpg"
+  },
+  {
+    "nombre": "Mezcal Artesanal 400 Conejos 200ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Mezcal Artesanal 400 Conejos 200ml.jpg"
+  },
+  {
+    "nombre": "Absolud Vodka 200ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Absolud Vodka 200ml.jpg"
+  },
+  {
+    "nombre": "Bacardi Blanco 200 ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Bacardi Blanco 200 ml .jpg"
+  },
+  {
+    "nombre": "Absolud Vodka 750 ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Absolud Vodka 750 ml.jpg"
+  },
+  {
+    "nombre": "Ron Malibu 750 ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Ron Malibu 750 ml.jpg"
+  },
+  {
+    "nombre": "Tequila Don Julio 70 100 ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Tequila Don Julio 70 100 ml.jpg"
+  },
+  {
+    "nombre": "Buchanan's Deluxe 12 750 ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Buchanan's Deluxe 12 750 ml.jpg"
+  },
+  {
+    "nombre": "Chivas Rivas Regal 12 750 ml",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Chivas Rivas Regal 12 750 ml.jpg"
+  },
+  {
+    "nombre": "Corona Vidrio de 210 ml Cartón",
+    "cantidad": 10,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Corona Vidrio de 210 ml Cartón.jpg"
+  },
+  {
+    "nombre": "Boones Pink Durazno 750ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Boones Pink Durazno 750ml.jpg"
+  },
+  {
+    "nombre": "Sangrita Viuda de Sanchez 1L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Sangrita Viuda de Sanchez 1L.jpg"
+  },
+  {
+    "nombre": "Madrilella Jarabe Natural Endulzante 1L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Madrilella Jarabe Natural Endulzante 1L .jpg"
+  },
+  {
+    "nombre": "Madrilella Jarabe Granadina 1L",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Madrilella Jarabe Granadina 1L .jpg"
+  },
+  {
+    "nombre": "Alcohol Etilico 200 ml",
+    "cantidad": 5,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Alcohol Etilico 200 ml.jpg"
+  },
+  {
+    "nombre": "Sedal Crema para peinar Ceramidas 135ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Sedal Crema para peinar Ceramidas 135ml.jpg"
+  },
+  {
+    "nombre": "OFF! Family (Repelente Moscos Aerosol) 217 ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "OFF! Family (Repelente Moscos Aerosol) 217 ml.jpg"
+  },
+  {
+    "nombre": "Nescafe Clasico 42g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 6,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Nescafe Clasico 42g.jpg"
+  },
+  {
+    "nombre": "Pinol Original 500 ml",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Pinol Original 500 ml.jpg"
+  },
+  {
+    "nombre": "McCormick Mayonesa 228 g",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "McCormick Mayonesa 228 g.jpg"
+  },
+  {
+    "nombre": "Valentina Amarilla 350 ml",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Valentina Amarilla 350 ml.jpg"
+  },
+  {
+    "nombre": "McCormick Mostaza 315 g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "McCormick Mostaza 315 g.jpg"
+  },
+  {
+    "nombre": "Chocokrispis 38g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Chocokrispis 38g .jpg"
+  },
+  {
+    "nombre": "Servilletas Deslsey",
+    "cantidad": 7,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Servilletas Deslsey .jpg"
+  },
+  {
+    "nombre": "Froot Loops  Gummies 198g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Froot Loops  Gummies 198g.jpg"
+  },
+  {
+    "nombre": "Palebola TamaRoca",
+    "cantidad": 11,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Palebola TamaRoca .jpg"
+  },
+  {
+    "nombre": "Sprite 2L",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Sprite 2L.jpg"
+  },
+  {
+    "nombre": "Taxco Agua Mineral 2L",
+    "cantidad": 9,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 2,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Taxco Agua Mineral 2L.jpg"
+  },
+  {
+    "nombre": "Mirinda 2L",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Mirinda 2L.jpg"
+  },
+  {
+    "nombre": "Peñafiel Agua Mineral 2L",
+    "cantidad": 9,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 2,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Peñafiel Agua Mineral 2L.jpg"
+  },
+  {
+    "nombre": "Squirt 2L",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Squirt 2L.jpg"
+  },
+  {
+    "nombre": "Vasos Desechables Unicel 10oz 25pz",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Vasos Desechables Unicel 10oz 25pz.jpg"
+  },
+  {
+    "nombre": "Charola Desechable Grande 50pz",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Charola Desechable Grande 50pz.jpg"
+  },
+  {
+    "nombre": "Papel Higienico 4pz",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Papel Higienico 4pz.jpg"
+  },
+  {
+    "nombre": "Agua Natural 1L",
+    "cantidad": 42,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 2,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Agua Natural 1L.jpg"
+  },
+  {
+    "nombre": "Dos Equis Lager Vidrio 350 ml",
+    "cantidad": 24,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Dos Equis Lager Vidrio 350 ml .jpg"
+  },
+  {
+    "nombre": "Churrumais Limon 36g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Churrumais Limon 36g .jpg"
+  },
+  {
+    "nombre": "Sal La Fina 1kg",
+    "cantidad": 3,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Sal La Fina 1kg.jpg"
+  },
+  {
+    "nombre": "Electrolit Uva 625ml",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Electrolit Uva 625ml.jpg"
+  },
+  {
+    "nombre": "Totopos Milpa Real 500g",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 7,
+    "caducidad": "",
+    "imagen": "Totopos Milpa Real 500g.jpg"
+  },
+  {
+    "nombre": "Aceite Nutrioli 946ml",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 8,
+    "caducidad": "",
+    "imagen": "Aceite Nutrioli 946ml.jpg"
+  },
+  {
+    "nombre": "Roles Bimbo Canela 180g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 9,
+    "caducidad": "",
+    "imagen": "Roles Bimbo Canela 180g.jpg"
+  },
+  {
+    "nombre": "Roles Bimbo Canela Glaseada 205g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 10,
+    "caducidad": "",
+    "imagen": "Roles Bimbo Canela Glaseada 205g.jpg"
+  },
+  {
+    "nombre": "Clamato 2,54 L",
+    "cantidad": 2,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 1,
+    "caducidad": "",
+    "imagen": "Clamato 2,54 L .jpg"
+  },
+  {
+    "nombre": "Yukai Pan Molido 1kg",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 10,
+    "id_proveedor": 2,
+    "caducidad": "",
+    "imagen": "Yukai Pan Molido 1kg.jpg"
+  },
+  {
+    "nombre": "Encendedores",
+    "cantidad": 12,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 3,
+    "caducidad": "",
+    "imagen": "Encendedores .jpg"
+  },
+  {
+    "nombre": "Pedigree Cachorro Pollo 100g",
+    "cantidad": 4,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 4,
+    "caducidad": "",
+    "imagen": "Pedigree Cachorro Pollo 100g.jpg"
+  },
+  {
+    "nombre": "Pedigree Razas Pequeñas Res 420g",
+    "cantidad": 1,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 5,
+    "caducidad": "",
+    "imagen": "Pedigree Razas Pequeñas Res 420g.jpg"
+  },
+  {
+    "nombre": "Chocolate KitKat 43g",
+    "cantidad": 6,
+    "precio": 0,
+    "descripcion": "",
+    "id_categoria": 20,
+    "id_proveedor": 6,
+    "caducidad": "",
+    "imagen": "Chocolate KitKat 43g.jpg"
+  }
+]

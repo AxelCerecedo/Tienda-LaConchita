@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Tienda Moxi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Tienda Moxi 🛍️</h1>
+    <div id="carrito">
+      <span class="icono">🛒</span> Carrito (<span id="contador-carrito">0</span>)
+    </div>
+  </header>
+
+  <section class="filtros">
+    <input type="text" id="busqueda" placeholder="Buscar producto...">
+  </section>
+
+  <div id="productos-container"></div>
+  <div id="paginacion"></div>
+  <div id="mensaje-agregado" class="oculto">✅ Producto agregado al carrito</div>
+
+  <div id="modal-carrito" class="modal">
+    <div class="modal-contenido">
+      <span class="cerrar">&times;</span>
+      <h2>Carrito de Compras</h2>
+      <div id="lista-carrito"></div>
+      <h3 id="total">Total: $0.00</h3>
+    </div>
+  </div>
+
+  <footer>
+    <div class="footer-container">
+      <div class="footer-info">
+        <h3>📍 Ubicación</h3>
+        <p>Acapulco - Brisas del Marquez</p>
+      </div>
+      <div class="footer-info">
+        <h3>📞 Contacto</h3>
+        <p>Tel: 744 120 7720</p>
+        <p>Encargado: Samuel Medina</p>
+      </div>
+      <div class="footer-info">
+        <h3>🕒 Horario</h3>
+        <p>Abierto 24 horas</p>
+      </div>
+      <div class="footer-info">
+        <h3>💳 Pagos</h3>
+        <p>Se aceptan tarjetas de crédito</p>
+      </div>
+      <div class="footer-anuncio">
+        <p class="linea1">📢 ¿No encuentras tu producto?</p>
+        <p class="linea2">¡Márcanos y te lo conseguimos!</p>
+      </div>
+    </div>
+    <p class="footer-copy">© 2025 Tienda Moxi. Todos los derechos reservados.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

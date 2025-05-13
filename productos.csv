@@ -1,0 +1,337 @@
+nombre,cantidad,precio,descripcion,id_categoria,id_proveedor,caducidad,imagen
+Detergente Foca,4.0,0.0,,1,1,,detergente_foca.jpg
+Agua E-Pura 10 L.,3.0,0.0,,2,2,,agua_e_pura_10_l.jpg
+Delicia 960 ML,3.0,0.0,,3,3,,delicia_960_ml.jpg
+Frijoles Isadora 430g,9.0,0.0,,4,4,,frijoles_isadora_430g.jpg
+Sopa Knort,6.0,0.0,,4,5,,sopa_knort.jpg
+Spagheti Yemina,5.0,0.0,,5,6,,spagheti_yemina.jpg
+Nescafe Decaf 40g,3.0,0.0,,6,7,,nescafe_decaf_40g.jpg
+"La Lechera 74,9 ml",3.0,0.0,,20,8,,la_lechera_74_9_ml.jpg
+Kelloggs Corn Flakes El original 150 g,1.0,0.0,,8,9,,kelloggs_corn_flakes_el_original_150_g.jpg
+Knortr Caldo de pollo ,4.0,0.0,,20,10,,knortr_caldo_de_pollo.jpg
+Pronto Hot Cakes Tradicional,1.0,0.0,,20,1,,pronto_hot_cakes_tradicional.jpg
+Bombitos Gamesa,3.0,0.0,,20,2,,bombitos_gamesa.jpg
+Doña Maria Mole 360 g,2.0,0.0,,20,3,,dona_maria_mole_360_g.jpg
+Vinagre Blanco (Clement Jacques) 500 ml,3.0,0.0,,20,4,,vinagre_blanco_clement_jacques_500_ml.jpg
+Vinagre Manzana 500ml,3.0,0.0,,20,5,,vinagre_manzana_500ml.jpg
+Aceite Nutrioli 400ml,3.0,0.0,,20,6,,aceite_nutrioli_400ml.jpg
+La Costeña Frijoles 560g,1.0,0.0,,4,7,,la_costena_frijoles_560g.jpg
+Karol Maple 255ml,3.0,0.0,,20,8,,karol_maple_255ml.jpg
+Palillos Pingüino 250,13.0,0.0,,20,9,,palillos_pinguino_250.jpg
+McCormick Mermelada de Fresa y guayaba 165ml,4.0,0.0,,20,10,,mccormick_mermelada_de_fresa_y_guayaba_165ml.jpg
+Tortillinas Tia Rosa 20pz,4.0,0.0,,20,1,,tortillinas_tia_rosa_20pz.jpg
+Tuny Express 295g ,6.0,0.0,,20,2,,tuny_express_295g.jpg
+Herdez Salsa Habanera 200g,5.0,0.0,,9,3,,herdez_salsa_habanera_200g.jpg
+Nutella 1000g,1.0,0.0,,20,4,,nutella_1000g.jpg
+Pan tostado Bimbo 14pz,1.0,0.0,,10,5,,pan_tostado_bimbo_14pz.jpg
+Nesquik chocolate 68g,3.0,0.0,,20,6,,nesquik_chocolate_68g.jpg
+Carnation Nestle Polvo 120g,4.0,0.0,,20,7,,carnation_nestle_polvo_120g.jpg
+Malvaviscos MarshMallows 1K,2.0,0.0,,20,8,,malvaviscos_marshmallows_1k.jpg
+Arroz Schettino 1Kg,5.0,0.0,,20,9,,arroz_schettino_1kg.jpg
+Nescafe de olla 10g,6.0,0.0,,6,10,,nescafe_de_olla_10g.jpg
+Nescafe Clasico 10g,5.0,0.0,,6,1,,nescafe_clasico_10g.jpg
+Calahua Crema de coco 1L,5.0,0.0,,20,2,,calahua_crema_de_coco_1l.jpg
+Carnation Nestle Leche 930ml,1.0,0.0,,20,3,,carnation_nestle_leche_930ml.jpg
+Jumex Naranja 960ml,5.0,0.0,,20,4,,jumex_naranja_960ml.jpg
+Jumex Uva 960ml,1.0,0.0,,20,5,,jumex_uva_960ml.jpg
+Jumex Piña 960ml,2.0,0.0,,20,6,,jumex_pina_960ml.jpg
+Mantecadas Tia Rosa 2pz,2.0,0.0,,20,7,,mantecadas_tia_rosa_2pz.jpg
+Panque Bimbo Marmol 280g,1.0,0.0,,10,8,,panque_bimbo_marmol_280g.jpg
+Panque Bimbo con Pazas 280g,1.0,0.0,,10,9,,panque_bimbo_con_pazas_280g.jpg
+Bimbuñuelos Bimbo 99g,1.0,0.0,,20,10,,bimbunuelos_bimbo_99g.jpg
+Bigotes con cajeta Tia Rosa 80g,2.0,0.0,,20,1,,bigotes_con_cajeta_tia_rosa_80g.jpg
+Bigotes con chocolate Tia Rosa 80g,2.0,0.0,,20,2,,bigotes_con_chocolate_tia_rosa_80g.jpg
+Pinguinos Marinela 80g,4.0,0.0,,20,3,,pinguinos_marinela_80g.jpg
+Chocorroles Piña Marinela 80g,3.0,0.0,,20,4,,chocorroles_pina_marinela_80g.jpg
+Submarinos Fresa Marinela 105g,1.0,0.0,,20,5,,submarinos_fresa_marinela_105g.jpg
+Submarinos Vainilla Marinela 105g,1.0,0.0,,20,6,,submarinos_vainilla_marinela_105g.jpg
+Gansito Marinela 50g,1.0,0.0,,20,7,,gansito_marinela_50g.jpg
+Doraditas Tia Rosa 110g,2.0,0.0,,20,8,,doraditas_tia_rosa_110g.jpg
+Palomitas ACT II Extra Mantequilla 87g,20.0,0.0,,20,9,,palomitas_act_ii_extra_mantequilla_87g.jpg
+Mamut Gamesa 8pz 30g,1.0,0.0,,20,10,,mamut_gamesa_8pz_30g.jpg
+Froot Loops Jelly Beans 284g,1.0,0.0,,20,1,,froot_loops_jelly_beans_284g.jpg
+"Skittles Morados 61,5g",3.0,0.0,,20,2,,skittles_morados_61_5g.jpg
+"Skittles Verdes 61,5g",5.0,0.0,,20,3,,skittles_verdes_61_5g.jpg
+"Skittles Rojos 61,5g",2.0,0.0,,20,4,,skittles_rojos_61_5g.jpg
+Skittles Gomitas Original  50g,3.0,0.0,,20,5,,skittles_gomitas_original_50g.jpg
+Skittles Gomitas Original  99g,2.0,0.0,,20,6,,skittles_gomitas_original_99g.jpg
+Salvavidas Gomitas Naranjas 56g,2.0,0.0,,20,7,,salvavidas_gomitas_naranjas_56g.jpg
+"Starburst Original 58,7g",8.0,0.0,,20,8,,starburst_original_58_7g.jpg
+"Starburst FaveRits 58,7g",6.0,0.0,,20,9,,starburst_faverits_58_7g.jpg
+HotTamales 120g ,6.0,0.0,,20,10,,hottamales_120g.jpg
+Reeses pieces 113g,1.0,0.0,,20,1,,reeses_pieces_113g.jpg
+M&MS Chocolate Cafes 47.9g,6.0,0.0,,20,2,,m_ms_chocolate_cafes_47_9g.jpg
+M&MS Chocolate Rojos 46.2g,4.0,0.0,,20,3,,m_ms_chocolate_rojos_46_2g.jpg
+M&MS Chocolate Amarillos 49.3g,8.0,0.0,,20,4,,m_ms_chocolate_amarillos_49_3g.jpg
+M&MS Chocolate Amarillos 87.9g,3.0,0.0,,20,5,,m_ms_chocolate_amarillos_87_9g.jpg
+MikeandIKE 120g,1.0,0.0,,20,6,,mikeandike_120g.jpg
+SourPatch Kids 99g,2.0,0.0,,20,7,,sourpatch_kids_99g.jpg
+Nerds Gummy Clusters 85g,4.0,0.0,,20,8,,nerds_gummy_clusters_85g.jpg
+Whoppers Originals 141g ,1.0,0.0,,20,9,,whoppers_originals_141g.jpg
+Mazapan de la Rosa Gigante 50g,17.0,0.0,,10,10,,mazapan_de_la_rosa_gigante_50g.jpg
+"Halls Negras 24,75g ",8.0,0.0,,20,1,,halls_negras_24_75g.jpg
+Winis Diversos ,32.0,0.0,,20,2,,winis_diversos.jpg
+Pelon Pelo Rico Tamarindo 30g,15.0,0.0,,20,3,,pelon_pelo_rico_tamarindo_30g.jpg
+Lucas Muecas Polvo 24g,8.0,0.0,,20,4,,lucas_muecas_polvo_24g.jpg
+Pulparindo 14g,11.0,0.0,,20,5,,pulparindo_14g.jpg
+OFF! Kids (Repelente Moscos) 118ml,7.0,0.0,,20,6,,off_kids_repelente_moscos_118ml.jpg
+OFF! Family (Repelente Moscos) 200ml,2.0,0.0,,20,7,,off_family_repelente_moscos_200ml.jpg
+Kotex Regular con Alas 16pz,1.0,0.0,,20,8,,kotex_regular_con_alas_16pz.jpg
+Kotex Nocturno Extra Larga con Alas 10pz,1.0,0.0,,20,9,,kotex_nocturno_extra_larga_con_alas_10pz.jpg
+Kotex Tampones Flujo abundante 12pz,2.0,0.0,,20,10,,kotex_tampones_flujo_abundante_12pz.jpg
+Kotex Tampones Flujo Super abundante 12pz,3.0,0.0,,20,1,,kotex_tampones_flujo_super_abundante_12pz.jpg
+Saba Invisible con alas 7pz,1.0,0.0,,20,2,,saba_invisible_con_alas_7pz.jpg
+Quita Esmalte Equate 100ml,2.0,0.0,,20,3,,quita_esmalte_equate_100ml.jpg
+Kleen Bebe Suavelastic Toallas 100pz ,3.0,0.0,,17,4,,kleen_bebe_suavelastic_toallas_100pz.jpg
+Zenker Kids Protector Solar 60g,2.0,0.0,,20,5,,zenker_kids_protector_solar_60g.jpg
+Zenker LAB Protector Solar 60g,2.0,0.0,,20,6,,zenker_lab_protector_solar_60g.jpg
+Lomecan Intimo Ultra Fresh 200ml,2.0,0.0,,20,7,,lomecan_intimo_ultra_fresh_200ml.jpg
+Caprice Palmolive 316ml ,2.0,0.0,,20,8,,caprice_palmolive_316ml.jpg
+Cosmetic Corta uñas 1pz,1.0,0.0,,20,9,,cosmetic_corta_unas_1pz.jpg
+eGo Magnetic Gel 200ml,7.0,0.0,,20,10,,ego_magnetic_gel_200ml.jpg
+Colgate XTRA Blancura 50ml,11.0,0.0,,20,1,,colgate_xtra_blancura_50ml.jpg
+Sedal Crema para peinar Risos Definidos 135ml,5.0,0.0,,20,2,,sedal_crema_para_peinar_risos_definidos_135ml.jpg
+Rexona Desodorante XXL 148g,2.0,0.0,,20,3,,rexona_desodorante_xxl_148g.jpg
+Algodón Absorbente Laloma 3g,6.0,0.0,,20,4,,algodon_absorbente_laloma_3g.jpg
+Head&Shoulders Limpieza Renovadora 90ml,10.0,0.0,,20,5,,head_shoulders_limpieza_renovadora_90ml.jpg
+Pantene Restauracion 100ml,16.0,0.0,,10,6,,pantene_restauracion_100ml.jpg
+Escudo Jabon Corporal 135g,9.0,0.0,,20,7,,escudo_jabon_corporal_135g.jpg
+Agua Oxigenada 960ml,2.0,0.0,,2,8,,agua_oxigenada_960ml.jpg
+Cloralex El rendidor 500ml,3.0,0.0,,20,9,,cloralex_el_rendidor_500ml.jpg
+Salvo Antigrasa 215ml,4.0,0.0,,20,10,,salvo_antigrasa_215ml.jpg
+Inflador y reparador de neumaticos 475ml,1.0,0.0,,20,1,,inflador_y_reparador_de_neumaticos_475ml.jpg
+Fabuloso Morado 500ml,1.0,0.0,,20,2,,fabuloso_morado_500ml.jpg
+Raid Mosquitos Raidolitos 10 Espirales,2.0,0.0,,20,3,,raid_mosquitos_raidolitos_10_espirales.jpg
+Colgate Cepillo de dientes  Medio ,12.0,0.0,,20,4,,colgate_cepillo_de_dientes_medio.jpg
+Rastrillo Bic Comford ,25.0,0.0,,20,5,,rastrillo_bic_comford.jpg
+Café Oriental Sobre,6.0,0.0,,20,6,,cafe_oriental_sobre.jpg
+Coffe Make 34g,1.0,0.0,,20,7,,coffe_make_34g.jpg
+PakeTaxo Amarillo 44g,10.0,0.0,,20,8,,paketaxo_amarillo_44g.jpg
+PakeTaxo Azul 44g,10.0,0.0,,20,9,,paketaxo_azul_44g.jpg
+PakeTaxo Verde 44g,10.0,0.0,,20,10,,paketaxo_verde_44g.jpg
+Sabritas Amarillas 42g,4.0,0.0,,20,1,,sabritas_amarillas_42g.jpg
+Fritos Sal y Limon Amarillos 38g,14.0,0.0,,20,2,,fritos_sal_y_limon_amarillos_38g.jpg
+Fritos Cafes (chorizo chipotle) 38g,3.0,0.0,,20,3,,fritos_cafes_chorizo_chipotle_38g.jpg
+Cheetos Naranjas 44g,4.0,0.0,,20,4,,cheetos_naranjas_44g.jpg
+Cheetos Flamin Hot 44g,14.0,0.0,,20,5,,cheetos_flamin_hot_44g.jpg
+Cheetos Flamin Hot POFFS 44g,2.0,0.0,,20,6,,cheetos_flamin_hot_poffs_44g.jpg
+Doritos Nachos 48g,12.0,0.0,,20,7,,doritos_nachos_48g.jpg
+Chips Jalapeño 42g,6.0,0.0,,20,8,,chips_jalapeno_42g.jpg
+Chips Sal 42g,4.0,0.0,,20,9,,chips_sal_42g.jpg
+Takis Verdes Original 56g,3.0,0.0,,20,10,,takis_verdes_original_56g.jpg
+Takis Fuego Morados 56g,4.0,0.0,,20,1,,takis_fuego_morados_56g.jpg
+Takis Salsa Brava 70g ,1.0,0.0,,9,2,,takis_salsa_brava_70g.jpg
+Runners Chile y Limon 58g ,2.0,0.0,,20,3,,runners_chile_y_limon_58g.jpg
+Rancheritos 40g ,7.0,0.0,,20,4,,rancheritos_40g.jpg
+Ruffles Queso 41g,2.0,0.0,,20,5,,ruffles_queso_41g.jpg
+POP Karameladas 50g,5.0,0.0,,20,6,,pop_karameladas_50g.jpg
+Doritos Dinamita Chile y Limon Verdes 50g,4.0,0.0,,20,7,,doritos_dinamita_chile_y_limon_verdes_50g.jpg
+Doritos Incognito 54g ,2.0,0.0,,20,8,,doritos_incognito_54g.jpg
+Crujitos Flamin Hot 35g,7.0,0.0,,20,9,,crujitos_flamin_hot_35g.jpg
+Sabritones Originales 32g,9.0,0.0,,20,10,,sabritones_originales_32g.jpg
+PakeTaxo Quexo Azul 300g,1.0,0.0,,20,1,,paketaxo_quexo_azul_300g.jpg
+PakeTaxo  Amarillo 265g,1.0,0.0,,20,2,,paketaxo_amarillo_265g.jpg
+Cheetos Flamin Hot 350g,3.0,0.0,,20,3,,cheetos_flamin_hot_350g.jpg
+Sabritas Amarillas 255g,1.0,0.0,,20,4,,sabritas_amarillas_255g.jpg
+Sabritas Limon 160g,1.0,0.0,,20,5,,sabritas_limon_160g.jpg
+Chips Jalapeño 240g,1.0,0.0,,20,6,,chips_jalapeno_240g.jpg
+Sabritas Adobadas 255g,1.0,0.0,,20,7,,sabritas_adobadas_255g.jpg
+Rancheritos 350g ,3.0,0.0,,20,8,,rancheritos_350g.jpg
+Cheetos Naranjas 350g,2.0,0.0,,20,9,,cheetos_naranjas_350g.jpg
+Springles Originales 37g,5.0,0.0,,20,10,,springles_originales_37g.jpg
+Springles Queso 40g,1.0,0.0,,20,1,,springles_queso_40g.jpg
+Valentina Negra 370ml,6.0,0.0,,20,2,,valentina_negra_370ml.jpg
+La Botanera Clasica 430ml,4.0,0.0,,20,3,,la_botanera_clasica_430ml.jpg
+Catsup Clemente Jacques 320g,2.0,0.0,,20,4,,catsup_clemente_jacques_320g.jpg
+Tajin Clasica 255g,2.0,0.0,,20,5,,tajin_clasica_255g.jpg
+Chamorrico Chamoy 5OOml,3.0,0.0,,20,6,,chamorrico_chamoy_5ooml.jpg
+Salsa Tabasco 60ml,4.0,0.0,,9,7,,salsa_tabasco_60ml.jpg
+Bufalo Clasica 150g,2.0,0.0,,20,8,,bufalo_clasica_150g.jpg
+Salsa Inglesa Crosse & Blackwell 145ml,8.0,0.0,,9,9,,salsa_inglesa_crosse_blackwell_145ml.jpg
+Maggi Jugo 100ml,6.0,0.0,,20,10,,maggi_jugo_100ml.jpg
+French's Mostaza 226ml ,1.0,0.0,,20,1,,french_s_mostaza_226ml.jpg
+Emperador Chocolate 91g,6.0,0.0,,20,2,,emperador_chocolate_91g.jpg
+Emperador Senzo 93g,10.0,0.0,,20,3,,emperador_senzo_93g.jpg
+Emperador Combinado 91g,2.0,0.0,,20,4,,emperador_combinado_91g.jpg
+Emperador Piruetas 76g,25.0,0.0,,20,5,,emperador_piruetas_76g.jpg
+Plativolos 72g,5.0,0.0,,20,6,,plativolos_72g.jpg
+Emperador Chocotella 72g,8.0,0.0,,20,7,,emperador_chocotella_72g.jpg
+Trikitrakes 68g,5.0,0.0,,20,8,,trikitrakes_68g.jpg
+Barritas Marinela Fresa 55g,20.0,0.0,,20,9,,barritas_marinela_fresa_55g.jpg
+Principe Marinela Chocolate 84g,3.0,0.0,,20,10,,principe_marinela_chocolate_84g.jpg
+Chokis Clasicas 57g,12.0,0.0,,20,1,,chokis_clasicas_57g.jpg
+Marianitas Vainilla 185g,5.0,0.0,,20,2,,marianitas_vainilla_185g.jpg
+Cremax Chocolate 113g,2.0,0.0,,20,3,,cremax_chocolate_113g.jpg
+Canelitas 60g,15.0,0.0,,20,4,,canelitas_60g.jpg
+Marias Gamesa Mini Rollos ,17.0,0.0,,20,5,,marias_gamesa_mini_rollos.jpg
+Salmas Horneadas 23pz,3.0,0.0,,20,6,,salmas_horneadas_23pz.jpg
+Saladitas Gamesa 42pz 504g,2.0,0.0,,20,7,,saladitas_gamesa_42pz_504g.jpg
+Te Verde 100pz 150g,1.0,0.0,,20,8,,te_verde_100pz_150g.jpg
+Zucaritas Chocolate 30g,4.0,0.0,,20,9,,zucaritas_chocolate_30g.jpg
+Zucaritas Originales 30g,3.0,0.0,,20,10,,zucaritas_originales_30g.jpg
+Corn Pops 30g,4.0,0.0,,20,1,,corn_pops_30g.jpg
+Floop Loops Cereal 25g,3.0,0.0,,20,2,,floop_loops_cereal_25g.jpg
+Hot Nuts Original 160g,1.0,0.0,,20,3,,hot_nuts_original_160g.jpg
+Speed Stek Desodorante Hombre 30ml ,6.0,0.0,,20,4,,speed_stek_desodorante_hombre_30ml.jpg
+Speed Stek Desodorante Mujer 30ml ,6.0,0.0,,20,5,,speed_stek_desodorante_mujer_30ml.jpg
+Oblea cajeta Coronado 9g,8.0,0.0,,20,6,,oblea_cajeta_coronado_9g.jpg
+Chipileta Sandia 11g ,10.0,0.0,,20,7,,chipileta_sandia_11g.jpg
+Chipileta Chamoy 11g ,10.0,0.0,,20,8,,chipileta_chamoy_11g.jpg
+Chipileta Naranja 11g ,10.0,0.0,,20,9,,chipileta_naranja_11g.jpg
+Sacate de baño ,5.0,0.0,,20,10,,sacate_de_bano.jpg
+Maruchan Limon Habanero,37.0,0.0,,20,1,,maruchan_limon_habanero.jpg
+Maruchan Piquin,16.0,0.0,,20,2,,maruchan_piquin.jpg
+Maruchan Camaron ,17.0,0.0,,20,3,,maruchan_camaron.jpg
+FUD Jamon de Pavo Virginia 450g,2.0,0.0,,20,4,,fud_jamon_de_pavo_virginia_450g.jpg
+Gatorade Mora 600ml,6.0,0.0,,20,5,,gatorade_mora_600ml.jpg
+Gatorade Limon 600ml,4.0,0.0,,20,6,,gatorade_limon_600ml.jpg
+Lipton Te Negro Limon 600ml ,2.0,0.0,,20,7,,lipton_te_negro_limon_600ml.jpg
+Lipton Te Negro Durazno 600ml ,2.0,0.0,,20,8,,lipton_te_negro_durazno_600ml.jpg
+Fuze Tea Te Negro Durazno 600ml,1.0,0.0,,20,9,,fuze_tea_te_negro_durazno_600ml.jpg
+Sol Mezclas Clamato 473ml,4.0,0.0,,20,10,,sol_mezclas_clamato_473ml.jpg
+Topo Chico 600ml ,10.0,0.0,,20,1,,topo_chico_600ml.jpg
+Coca Cola Zero 355ml ,10.0,0.0,,20,2,,coca_cola_zero_355ml.jpg
+Victoria 210ml,24.0,0.0,,20,3,,victoria_210ml.jpg
+Corona 210ml,48.0,0.0,,20,4,,corona_210ml.jpg
+"Coca Cola Sin Azucar 2,5L ",6.0,0.0,,20,5,,coca_cola_sin_azucar_2_5l.jpg
+Coca Cola Original 2L,40.0,0.0,,20,6,,coca_cola_original_2l.jpg
+Coca Cola Original 3L,20.0,0.0,,20,7,,coca_cola_original_3l.jpg
+Sidral Mundet 2L,3.0,0.0,,20,8,,sidral_mundet_2l.jpg
+Lala Crema 426ml ,1.0,0.0,,20,9,,lala_crema_426ml.jpg
+Yoli Limon 2L ,11.0,0.0,,20,10,,yoli_limon_2l.jpg
+"Peñafiel Sifon 1,75L",6.0,0.0,,20,1,,penafiel_sifon_1_75l.jpg
+Fresca Limon 2L,2.0,0.0,,20,2,,fresca_limon_2l.jpg
+Seven Up 3L,1.0,0.0,,20,3,,seven_up_3l.jpg
+Mirinda 3L,1.0,0.0,,20,4,,mirinda_3l.jpg
+Fanta Naranja 600ml ,25.0,0.0,,20,5,,fanta_naranja_600ml.jpg
+Yoli Limon 600ml ,35.0,0.0,,20,6,,yoli_limon_600ml.jpg
+Coca Cola Original Lata 355ml,1.0,0.0,,20,7,,coca_cola_original_lata_355ml.jpg
+Electrolit Coco 625ml,2.0,0.0,,20,8,,electrolit_coco_625ml.jpg
+Electrolit FresaKiwi 625ml,1.0,0.0,,20,9,,electrolit_fresakiwi_625ml.jpg
+Monster Energy Rojo 473ml ,20.0,0.0,,20,10,,monster_energy_rojo_473ml.jpg
+Santa Clara Deslactosada 1L,1.0,0.0,,20,1,,santa_clara_deslactosada_1l.jpg
+Bolsa de Hielo ,4.0,0.0,,20,2,,bolsa_de_hielo.jpg
+Delaware Punch Uva 600ml ,14.0,0.0,,20,3,,delaware_punch_uva_600ml.jpg
+Coca Cola Original 600ml,26.0,0.0,,20,4,,coca_cola_original_600ml.jpg
+Lipton Te Verde 600ml,1.0,0.0,,20,5,,lipton_te_verde_600ml.jpg
+Yoli Limon Vidrio 500ml ,7.0,0.0,,20,6,,yoli_limon_vidrio_500ml.jpg
+Fresca Limon 600ml,21.0,0.0,,20,7,,fresca_limon_600ml.jpg
+Sidral Mundet 600ml,12.0,0.0,,20,8,,sidral_mundet_600ml.jpg
+Coca Cola Light 355ml ,11.0,0.0,,20,9,,coca_cola_light_355ml.jpg
+Coca Cola Original Vidrio 500ml,23.0,0.0,,20,10,,coca_cola_original_vidrio_500ml.jpg
+Jumex Manzana 413ml,4.0,0.0,,20,1,,jumex_manzana_413ml.jpg
+Squirt 3L,9.0,0.0,,20,2,,squirt_3l.jpg
+Fanta Naranja 2L,4.0,0.0,,20,3,,fanta_naranja_2l.jpg
+"Be Light Toronja 1,5L",2.0,0.0,,20,4,,be_light_toronja_1_5l.jpg
+"Be Light Mango 1,5L",1.0,0.0,,20,5,,be_light_mango_1_5l.jpg
+"Be Light Jamaica 1,5L",1.0,0.0,,20,6,,be_light_jamaica_1_5l.jpg
+Volt Blue 473ml ,22.0,0.0,,20,7,,volt_blue_473ml.jpg
+Canada Dry Agua Mineral 600ml,3.0,0.0,,2,8,,canada_dry_agua_mineral_600ml.jpg
+Frutsi 250ml ,7.0,0.0,,20,9,,frutsi_250ml.jpg
+Santa Clara Fresa 180ml ,5.0,0.0,,20,10,,santa_clara_fresa_180ml.jpg
+Sky Blue 275ml,1.0,0.0,,20,1,,sky_blue_275ml.jpg
+Jumex Durazno 960ml,1.0,0.0,,20,2,,jumex_durazno_960ml.jpg
+Jumex Mango 413ml,3.0,0.0,,20,3,,jumex_mango_413ml.jpg
+Jumex Durazno 413ml,1.0,0.0,,20,4,,jumex_durazno_413ml.jpg
+Santa Clara Capuchino 180ml ,3.0,0.0,,20,5,,santa_clara_capuchino_180ml.jpg
+Santa Clara Chocolate 180ml ,9.0,0.0,,20,6,,santa_clara_chocolate_180ml.jpg
+Boing Manzana 500ml,2.0,0.0,,20,7,,boing_manzana_500ml.jpg
+Boing Guayaba 500ml,3.0,0.0,,20,8,,boing_guayaba_500ml.jpg
+Gatorade Ponche de Frutas 600ml,4.0,0.0,,20,9,,gatorade_ponche_de_frutas_600ml.jpg
+Gatorade Naranja 600ml,3.0,0.0,,20,10,,gatorade_naranja_600ml.jpg
+Corona Extra 473ml,57.0,0.0,,20,1,,corona_extra_473ml.jpg
+Michelob Ultra 355ml,42.0,0.0,,20,2,,michelob_ultra_355ml.jpg
+Pacifico Clara 355ml,49.0,0.0,,20,3,,pacifico_clara_355ml.jpg
+Modelo Especial 473ml,42.0,0.0,,20,4,,modelo_especial_473ml.jpg
+Victoria Lata 473ml,25.0,0.0,,20,5,,victoria_lata_473ml.jpg
+Heineken Cero 355ml,3.0,0.0,,20,6,,heineken_cero_355ml.jpg
+Tecate Light Lager 355ml,3.0,0.0,,20,7,,tecate_light_lager_355ml.jpg
+Cigarros Luckies ,2.0,0.0,,20,8,,cigarros_luckies.jpg
+Cigarros Faros ,2.0,0.0,,20,9,,cigarros_faros.jpg
+Cigarros Lucky Strike ,1.0,0.0,,20,10,,cigarros_lucky_strike.jpg
+Cigarros Malboro Blanco ,1.0,0.0,,20,1,,cigarros_malboro_blanco.jpg
+Cigarros Malboro Rojos,11.0,0.0,,20,2,,cigarros_malboro_rojos.jpg
+Cigarros Pall Mall Alaska,19.0,0.0,,20,3,,cigarros_pall_mall_alaska.jpg
+Cigarros Pall Mall Mykonos,11.0,0.0,,20,4,,cigarros_pall_mall_mykonos.jpg
+Cigarros Malboro Summer Fusion ,9.0,0.0,,20,5,,cigarros_malboro_summer_fusion.jpg
+Cigarros Malboro ice xpress ,1.0,0.0,,20,6,,cigarros_malboro_ice_xpress.jpg
+Tostitos Cebolla Francesa 240g,1.0,0.0,,20,7,,tostitos_cebolla_francesa_240g.jpg
+Tostitos Queso Jalapeño 255g,1.0,0.0,,20,8,,tostitos_queso_jalapeno_255g.jpg
+Riopan 10tab,1.0,0.0,,10,9,,riopan_10tab.jpg
+Picot 10tab,6.0,0.0,,20,10,,picot_10tab.jpg
+AlkaSeltzer Boost 10tab,5.0,0.0,,20,1,,alkaseltzer_boost_10tab.jpg
+Mejoralito 30tab,1.0,0.0,,20,2,,mejoralito_30tab.jpg
+Tabcin Active 12tab,2.0,0.0,,20,3,,tabcin_active_12tab.jpg
+Tabcin Noche 12tab,1.0,0.0,,20,4,,tabcin_noche_12tab.jpg
+Aspirina 40tab,1.0,0.0,,20,5,,aspirina_40tab.jpg
+Lomotin 8tab,1.0,0.0,,20,6,,lomotin_8tab.jpg
+TempraForte 24tab,2.0,0.0,,20,7,,tempraforte_24tab.jpg
+Dramamine 24tab,1.0,0.0,,20,8,,dramamine_24tab.jpg
+Excedrin 24tab,1.0,0.0,,20,9,,excedrin_24tab.jpg
+Cuchara Desechable Grande 25pz,4.0,0.0,,20,10,,cuchara_desechable_grande_25pz.jpg
+Tenedor Desechable Pastelero 50pz,5.0,0.0,,20,1,,tenedor_desechable_pastelero_50pz.jpg
+Vasos Desechables 16oz 25pz,7.0,0.0,,20,2,,vasos_desechables_16oz_25pz.jpg
+Vasos Desechables Cap. 570ml 25pz,1.0,0.0,,20,3,,vasos_desechables_cap_570ml_25pz.jpg
+Charola Desechable Chica 50pz,6.0,0.0,,20,4,,charola_desechable_chica_50pz.jpg
+Valentina Amarilla 4L ,1.0,0.0,,20,5,,valentina_amarilla_4l.jpg
+"Chivas Rivas Regal 12 1,75 L",1.0,0.0,,20,6,,chivas_rivas_regal_12_1_75_l.jpg
+Mezcal Artesanal 400 Conejos 1L,1.0,0.0,,20,7,,mezcal_artesanal_400_conejos_1l.jpg
+"Bacardi Blanco 1,75 L ",1.0,0.0,,20,8,,bacardi_blanco_1_75_l.jpg
+Bacardi Mango Chile 750ml ,1.0,0.0,,20,9,,bacardi_mango_chile_750ml.jpg
+Bacardi Raspberry 750ml ,2.0,0.0,,20,10,,bacardi_raspberry_750ml.jpg
+Bacardi Limon Verde 750ml ,1.0,0.0,,20,1,,bacardi_limon_verde_750ml.jpg
+Bacardi Blanco 700ml ,1.0,0.0,,20,2,,bacardi_blanco_700ml.jpg
+Boones Pink Limonade 750ml,2.0,0.0,,20,3,,boones_pink_limonade_750ml.jpg
+Vino Tinto Opera Prima 750ml,2.0,0.0,,20,4,,vino_tinto_opera_prima_750ml.jpg
+Kahlua Coffe Liqueur 1L,3.0,0.0,,20,5,,kahlua_coffe_liqueur_1l.jpg
+Vino Tinto Malbec 750ml ,1.0,0.0,,20,6,,vino_tinto_malbec_750ml.jpg
+Tequila Maestro Dobel 700ml,2.0,0.0,,20,7,,tequila_maestro_dobel_700ml.jpg
+Torres 10 700ml,3.0,0.0,,20,8,,torres_10_700ml.jpg
+Mezcal Artesanal 400 Conejos 200ml,1.0,0.0,,20,9,,mezcal_artesanal_400_conejos_200ml.jpg
+Absolud Vodka 200ml,4.0,0.0,,20,10,,absolud_vodka_200ml.jpg
+Bacardi Blanco 200 ml ,1.0,0.0,,20,1,,bacardi_blanco_200_ml.jpg
+Absolud Vodka 750 ml,1.0,0.0,,20,2,,absolud_vodka_750_ml.jpg
+Ron Malibu 750 ml,1.0,0.0,,20,3,,ron_malibu_750_ml.jpg
+Tequila Don Julio 70 100 ml,1.0,0.0,,20,4,,tequila_don_julio_70_100_ml.jpg
+Buchanan's Deluxe 12 750 ml,1.0,0.0,,20,5,,buchanan_s_deluxe_12_750_ml.jpg
+Chivas Rivas Regal 12 750 ml,3.0,0.0,,20,6,,chivas_rivas_regal_12_750_ml.jpg
+Corona Vidrio de 210 ml Cartón,10.0,0.0,,20,7,,corona_vidrio_de_210_ml_carton.jpg
+Boones Pink Durazno 750ml,2.0,0.0,,20,8,,boones_pink_durazno_750ml.jpg
+Sangrita Viuda de Sanchez 1L,1.0,0.0,,20,9,,sangrita_viuda_de_sanchez_1l.jpg
+Madrilella Jarabe Natural Endulzante 1L ,1.0,0.0,,20,10,,madrilella_jarabe_natural_endulzante_1l.jpg
+Madrilella Jarabe Granadina 1L ,1.0,0.0,,20,1,,madrilella_jarabe_granadina_1l.jpg
+Alcohol Etilico 200 ml,5.0,0.0,,20,2,,alcohol_etilico_200_ml.jpg
+Sedal Crema para peinar Ceramidas 135ml,2.0,0.0,,20,3,,sedal_crema_para_peinar_ceramidas_135ml.jpg
+OFF! Family (Repelente Moscos Aerosol) 217 ml,1.0,0.0,,20,4,,off_family_repelente_moscos_aerosol_217_ml.jpg
+Nescafe Clasico 42g,1.0,0.0,,6,5,,nescafe_clasico_42g.jpg
+Pinol Original 500 ml,1.0,0.0,,20,6,,pinol_original_500_ml.jpg
+McCormick Mayonesa 228 g,3.0,0.0,,20,7,,mccormick_mayonesa_228_g.jpg
+Valentina Amarilla 350 ml,4.0,0.0,,20,8,,valentina_amarilla_350_ml.jpg
+McCormick Mostaza 315 g,2.0,0.0,,20,9,,mccormick_mostaza_315_g.jpg
+Chocokrispis 38g ,2.0,0.0,,20,10,,chocokrispis_38g.jpg
+Servilletas Deslsey ,7.0,0.0,,20,1,,servilletas_deslsey.jpg
+Froot Loops  Gummies 198g,2.0,0.0,,20,2,,froot_loops_gummies_198g.jpg
+Palebola TamaRoca ,11.0,0.0,,20,3,,palebola_tamaroca.jpg
+Sprite 2L,2.0,0.0,,20,4,,sprite_2l.jpg
+Taxco Agua Mineral 2L,9.0,0.0,,2,5,,taxco_agua_mineral_2l.jpg
+Mirinda 2L,3.0,0.0,,20,6,,mirinda_2l.jpg
+Peñafiel Agua Mineral 2L,9.0,0.0,,2,7,,penafiel_agua_mineral_2l.jpg
+Squirt 2L,2.0,0.0,,20,8,,squirt_2l.jpg
+Vasos Desechables Unicel 10oz 25pz,6.0,0.0,,20,9,,vasos_desechables_unicel_10oz_25pz.jpg
+Charola Desechable Grande 50pz,1.0,0.0,,20,10,,charola_desechable_grande_50pz.jpg
+Papel Higienico 4pz,2.0,0.0,,20,1,,papel_higienico_4pz.jpg
+Agua Natural 1L,42.0,0.0,,2,2,,agua_natural_1l.jpg
+Dos Equis Lager Vidrio 350 ml ,24.0,0.0,,20,3,,dos_equis_lager_vidrio_350_ml.jpg
+Churrumais Limon 36g ,2.0,0.0,,20,4,,churrumais_limon_36g.jpg
+Sal La Fina 1kg,3.0,0.0,,20,5,,sal_la_fina_1kg.jpg
+Electrolit Uva 625ml,6.0,0.0,,20,6,,electrolit_uva_625ml.jpg
+Totopos Milpa Real 500g,2.0,0.0,,20,7,,totopos_milpa_real_500g.jpg
+Aceite Nutrioli 946ml,2.0,0.0,,20,8,,aceite_nutrioli_946ml.jpg
+Roles Bimbo Canela 180g,1.0,0.0,,20,9,,roles_bimbo_canela_180g.jpg
+Roles Bimbo Canela Glaseada 205g,1.0,0.0,,20,10,,roles_bimbo_canela_glaseada_205g.jpg
+"Clamato 2,54 L ",2.0,0.0,,20,1,,clamato_2_54_l.jpg
+Yukai Pan Molido 1kg,1.0,0.0,,10,2,,yukai_pan_molido_1kg.jpg
+Encendedores ,12.0,0.0,,20,3,,encendedores.jpg
+Pedigree Cachorro Pollo 100g,4.0,0.0,,20,4,,pedigree_cachorro_pollo_100g.jpg
+Pedigree Razas Pequeñas Res 420g,1.0,0.0,,20,5,,pedigree_razas_pequenas_res_420g.jpg
+Chocolate KitKat 43g,6.0,0.0,,20,6,,chocolate_kitkat_43g.jpg
