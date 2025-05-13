@@ -19,7 +19,9 @@ fetch('productos.json')
         .replace(/^_+|_+$/g, "")}.jpg`
     }));
     todosLosProductos = productos;
+    productosFiltrados = productos; // <-- aquí asignamos todos los productos también al filtro inicial
     mostrarProductosPaginados();
+
   })
   .catch(error => {
     console.error("Error al cargar productos:", error);
