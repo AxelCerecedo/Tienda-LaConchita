@@ -245,18 +245,19 @@ footer {
 .filtros {
   display: flex;
   justify-content: center;
-  margin: 20px 0;
+  margin: 20px 15px;
 }
 
 #busqueda {
-  width: 300px;
+  width: 100%;
+  max-width: 400px;
   padding: 10px 15px 10px 40px;
   font-size: 16px;
   border: 2px solid #ccc;
   border-radius: 25px;
   outline: none;
   background-color: #fff;
-  background-image: url('https://cdn-icons-png.flaticon.com/512/622/622669.png');
+  background-image: url('https://cdn-icons-png.flaticon.com/512/622/622669.png'); /* Puedes cambiarla por una local */
   background-size: 20px;
   background-position: 10px center;
   background-repeat: no-repeat;
@@ -269,5 +270,12 @@ footer {
   box-shadow: 0 0 8px rgba(92, 157, 237, 0.3);
 }
 
-
+/* 🌐 Media query para pantallas pequeñas (celulares) */
+@media (max-width: 480px) {
+  #busqueda {
+    font-size: 14px;
+    padding-left: 35px;
+    background-size: 16px;
+  }
+}
 
