@@ -19,7 +19,6 @@ header {
 
 h1 {
   font-size: 2.5rem;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -65,18 +64,20 @@ h1 {
   }
 }
 
-
 #productos {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: flex-start;
   gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-
 .producto {
-  width: 100%;
-  max-width: 250px; /* Fuerza un tamaño estándar */
+  flex: 1 1 250px;
+  max-width: 250px;
+  min-width: 220px;
   margin: 10px;
   padding: 15px;
   border: 1px solid #ddd;
@@ -92,16 +93,14 @@ h1 {
 }
 
 .producto img {
-  max-width: 100%;
-  height: auto;
-  max-height: 180px;
+  width: 100%;
+  height: 180px;
   object-fit: contain;
 }
 
 .producto h3 {
   margin: 10px 0 5px;
   font-size: 18px;
-  text-align: center;
 }
 
 .producto p {
@@ -135,10 +134,9 @@ button:disabled {
 
 #paginacion {
   margin-top: 30px;
-  margin-bottom: 40px; /* Añadimos margen inferior para separarlo del footer */
+  margin-bottom: 40px;
   text-align: center;
 }
-
 
 #paginacion button {
   margin: 0 5px;
@@ -213,7 +211,6 @@ footer {
   color: #ccc;
 }
 
-
 .footer-anuncio .linea1 {
   font-size: 1rem;
 }
@@ -244,28 +241,28 @@ footer {
   opacity: 0;
 }
 
-
+/* Barra de búsqueda */
 .filtros {
   display: flex;
   justify-content: center;
-  margin: 20px 15px;
+  margin: 30px 15px;
 }
 
 #busqueda {
   width: 100%;
-  max-width: 400px;
-  padding: 10px 15px 10px 40px;
+  max-width: 450px;
+  padding: 12px 20px 12px 45px;
   font-size: 16px;
   border: 2px solid #ccc;
-  border-radius: 25px;
+  border-radius: 30px;
   outline: none;
   background-color: #fff;
-  background-image: url('https://cdn-icons-png.flaticon.com/512/622/622669.png'); /* Puedes cambiarla por una local */
+  background-image: url('https://cdn-icons-png.flaticon.com/512/622/622669.png');
   background-size: 20px;
-  background-position: 10px center;
+  background-position: 15px center;
   background-repeat: no-repeat;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
 }
 
 #busqueda:focus {
@@ -273,12 +270,11 @@ footer {
   box-shadow: 0 0 8px rgba(92, 157, 237, 0.3);
 }
 
-/* 🌐 Media query para pantallas pequeñas (celulares) */
+/* Responsive barra de búsqueda */
 @media (max-width: 480px) {
   #busqueda {
     font-size: 14px;
-    padding-left: 35px;
-    background-size: 16px;
+    padding-left: 40px;
+    background-size: 18px;
   }
 }
-
