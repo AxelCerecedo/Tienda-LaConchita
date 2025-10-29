@@ -2,59 +2,23 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tienda La Conchita De Marques 🐚 </title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <title>Tienda Moxi</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>La Conchita De Marques 🐚</h1>
+    <h1>La Conchita  De Marques 🐚 </h1>
     <div id="carrito">
       <span class="icono">🛒</span> Carrito (<span id="contador-carrito">0</span>)
     </div>
   </header>
 
-  <main class="main-content">
-    <section class="filtros">
-      <input type="text" id="busqueda" placeholder="Buscar producto...">
-    </section>
+  <section class="filtros">
+    <input type="text" id="busqueda" placeholder="Buscar producto...">
+  </section>
 
-    <div id="productos-container">
-      <div class="producto">
-          <img src="https://via.placeholder.com/300x200?text=Producto+1" alt="Almeja Fresca">
-          <div class="producto-info">
-              <h3>Almeja Fresca del Día</h3>
-              <p class="precio">$150.00</p>
-              <button data-id="1">Añadir al Carrito</button>
-          </div>
-      </div>
-      <div class="producto">
-          <img src="https://via.placeholder.com/300x200?text=Producto+2" alt="Pulpo Gigante">
-          <div class="producto-info">
-              <h3>Pulpo Gigante Pacífico</h3>
-              <p class="precio">$280.00</p>
-              <button data-id="2">Añadir al Carrito</button>
-          </div>
-      </div>
-      <div class="producto">
-          <img src="https://via.placeholder.com/300x200?text=Producto+3" alt="Camarón">
-          <div class="producto-info">
-              <h3>Camarón Mediano Kg</h3>
-              <p class="precio">$220.00</p>
-              <button data-id="3">Añadir al Carrito</button>
-          </div>
-      </div>
-    </div>
-    
-    <div id="paginacion">
-      <button>Anterior</button>
-      <button class="active">1</button>
-      <button>2</button>
-      <button>Siguiente</button>
-    </div>
-  </main>
-
+  <div id="productos-container"></div>
+  <div id="paginacion"></div>
   <div id="mensaje-agregado" class="oculto">✅ Producto agregado al carrito</div>
 
   <div id="modal-carrito" class="modal">
@@ -93,6 +57,6 @@
     <p class="footer-copy">© 2025 Tienda Moxi. Todos los derechos reservados.</p>
   </footer>
 
-  <script src="script.js"></script> 
+  <script src="script.js"></script>
 </body>
 </html>
